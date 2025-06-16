@@ -1,0 +1,104 @@
+import style from './Home.module.css'
+import { UpperBar } from '../UpperBar/UpperBar'
+import { LowerBar } from '../LowerBar/LowerBar'
+
+export function Home(){
+    return (<div>
+            <UpperBar />
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+                Homepage<br/>
+
+            <LowerBar />
+            </div>)
+}
